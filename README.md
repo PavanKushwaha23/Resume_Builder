@@ -57,6 +57,10 @@ There is a need for a **free, easy-to-use** resume builder that generates qualit
 
 ![Screenshot 2025-07-02 071855](https://github.com/user-attachments/assets/f4ede5b1-2b5a-438e-8ff0-db0330bf4eed)
 
+![Screenshot 2025-07-05 001234](https://github.com/user-attachments/assets/1b035ffa-049d-456d-a34f-7fa8dc645e64)
+
+![Screenshot 2025-07-05 001206](https://github.com/user-attachments/assets/5265b3bb-c3c9-45e0-b410-1f08a22ab646)
+
 ---
 🔧 Future Enhancements
 🎨 Add theme customization (color templates and font selection)
